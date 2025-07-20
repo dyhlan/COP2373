@@ -1,2 +1,11 @@
-First Name|Last Name|Exam 1|Exam 2|Exam 3
-d|h|1|2|3
+First Name,Last Name,Exam 1,Exam 2,Exam 3
+One,One,40,50,80
+Two,Two,68,89,99
+Three,Three,45,88,72
+Four,Four,100,100,100
+Five,Five,50,50,32
+Six,Six,80,92,88
+Seven,Seven,88,100,94
+Eight,Eight,80,72,70
+Nine,Nine,50,60,72
+Ten,Ten,100,100,88
